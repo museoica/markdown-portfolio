@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+What I try to avoid in life:
+1. Regrets
+2. Debts
+3. Poverty
+  * of **knowledge**
+  * of kindness 🎉
+  * and radiance (*that shine on our face*)
