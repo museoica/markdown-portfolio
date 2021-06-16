@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Paintings
+* Riding
+* Technology
+  * Latest gadgets 📱
+  * Latest OS update 💻
